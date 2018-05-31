@@ -15,7 +15,7 @@ class Triangle
     elsif @first_side + @third_side <= @second_side
       true
     else
-      FALSE
+      false
     end
   end
   
